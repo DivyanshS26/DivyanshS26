@@ -5,7 +5,6 @@
 
 
 ### 🌱 I’m currently learning Data Structures in Java and Web Devolpment.
-### 📫 How to reach me: Divyansh0727.cse19@chitkara.edu.in
 ### 📫 How to reach me: divyanshsahu25@gmail.com
 
  <h3 align="left">Connect with me:<img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif" height="33px"/></h3>
